@@ -1,0 +1,166 @@
+:root {
+  --primary-purple:  #633bfb;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+* {
+  font-family: Poppins;
+}
+
+.bg-purple {
+  background: var(--primary-purple);
+}
+
+.bg-blue {
+  background: #1c2560;
+}
+
+.bg-grey {
+  background: #faf9fe;
+}
+
+.lh-1 {
+  line-height: 1.5;
+}
+
+.lh-2 {
+  line-height: 2.5;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.logo {
+  height: 25px;
+}
+
+.clear {
+  clear: both;
+}
+
+nav a {
+  color: #fff;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.83);
+}
+
+nav li {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+nav .signin {
+  color: var(--primary-purple);
+  background: #fff;
+  position: relative;
+}
+
+nav .signin:hover {
+  color: var(--primary-purple);
+}
+
+nav .signin::after {
+  content: "";
+  position: absolute;
+  background: url(../images/dots-h.png);
+  width: 100px;
+  height: 100px;
+  bottom: -60px;
+  left: 15px;
+  z-index: 0;
+}
+
+footer .logo-footer {
+  height: 30px;
+}
+
+footer .footer-list-contact {
+  list-style: none;
+  padding-left: 0;
+}
+
+footer .footer-list-contact li {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+footer .footer-list-contact li img {
+  margin-right: 15px;
+}
+
+footer .social-media {
+  list-style: none;
+  padding-left: 0;
+}
+
+footer .social-media li {
+  float: left;
+  margin-right: 20px;
+}
+
+footer .social-media li img {
+  width: 40px;
+  height: 40px;
+}
+
+footer form .input-wrapper {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border: 2px solid #fff;
+  border-radius: 20px;
+  width: calc(50% -30px);
+}
+
+footer form .input-wrapper input, footer form .input-wrapper .comment {
+  background: none;
+  border: none;
+  outline: none;
+  color: white;
+  resize: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  height: 100%;
+}
+
+footer form .input-wrapper input::-webkit-input-placeholder, footer form .input-wrapper .comment::-webkit-input-placeholder {
+  color: #fff;
+}
+
+footer form .input-wrapper input:-ms-input-placeholder, footer form .input-wrapper .comment:-ms-input-placeholder {
+  color: #fff;
+}
+
+footer form .input-wrapper input::-ms-input-placeholder, footer form .input-wrapper .comment::-ms-input-placeholder {
+  color: #fff;
+}
+
+footer form .input-wrapper input::placeholder, footer form .input-wrapper .comment::placeholder {
+  color: #fff;
+}
+
+footer form .email, footer form .comment-wrapper {
+  width: calc(100% - 30px);
+  margin-top: 30px;
+}
+
+footer form .comment-wrapper {
+  height: 250px;
+}
+
+footer form .name {
+  margin-right: 30px;
+}
+
+footer a {
+  margin-top: 30px;
+  border-radius: 30px;
+}
+/*# sourceMappingURL=style.css.map */

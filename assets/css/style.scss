@@ -1,0 +1,173 @@
+:root {
+    --primary-purple:  #633bfb;
+   
+  }
+
+@font-face{
+    font-family: Poppins;
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+*{
+    font-family: Poppins;
+}
+
+.bg-purple{
+    background: var(--primary-purple);
+}
+
+.bg-blue{
+    background: #1c2560;
+}
+
+.bg-grey{
+    background: #faf9fe;
+}
+
+.lh-1{
+    line-height: 1.5;
+}
+
+.lh-2{
+    line-height: 2.5;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.logo{
+    height: 25px;
+}
+
+.clear{
+    clear: both;
+}
+
+nav{
+    
+
+            a{
+                color: #fff;
+
+                &:hover{
+                    text-decoration: none;
+                    color: rgba(255, 255, 255, 0.83);
+                }
+            }
+
+    li{
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .signin{
+        color: var(--primary-purple);
+        background: #fff;
+        position: relative;
+        
+        &:hover{
+            color: var(--primary-purple);
+        }
+
+        &::after{
+            content: "";
+            position: absolute;
+            background: url(../images/dots-h.png);
+            width: 100px;
+            height: 100px;
+            bottom: -60px;
+            left: 15px;
+            z-index: 0;
+            
+        }
+    }
+}
+
+footer{
+
+    .logo-footer{
+        height: 30px;
+    }
+
+
+
+.footer-list-contact{
+    list-style: none;
+    padding-left: 0;
+
+
+
+    li{
+        padding-top: 8px;
+        padding-bottom: 8px;
+
+        img{
+            margin-right: 15px;
+        }
+    }
+
+
+}
+
+    .social-media{
+        list-style: none;
+        padding-left: 0;
+        
+        li{
+            float: left;
+            margin-right: 20px;
+            
+            img{
+                width: 40px;
+                height: 40px;
+            }
+        }
+    }
+
+    form{
+       
+        .input-wrapper{
+            box-sizing: border-box;
+            border: 2px solid #fff;
+            border-radius: 20px;
+            width: calc(50% -30px);
+
+
+            input, .comment{
+                background: none;
+                border: none;
+                outline: none;
+                color: white;
+                resize: none;
+                box-sizing: border-box;
+                height: 100%;
+             
+                
+                &::placeholder{
+                    color: #fff;
+                }
+            }
+        }
+
+        .email,.comment-wrapper{
+            width: calc(100% - 30px);
+            margin-top: 30px;
+           
+        }
+
+        .comment-wrapper{
+            height: 250px;
+        }
+        
+        .name{
+            margin-right: 30px;
+        }
+    }
+
+    a{
+        margin-top: 30px;
+        border-radius: 30px;
+    }
+
+}

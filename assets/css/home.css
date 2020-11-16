@@ -1,0 +1,80 @@
+:root {
+  --primary-purple:  #633bfb;
+}
+
+header {
+  background: var(--primary-purple);
+}
+
+.banner {
+  background: var(--primary-purple);
+}
+
+.banner h1 {
+  line-height: 1.5;
+  font-weight: bold;
+  color: #fff;
+  font-size: 50px;
+}
+
+.banner p {
+  line-height: 1.5;
+}
+
+.jumbotron-right .sponsor {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  margin-left: auto;
+  margin-top: -80px;
+}
+
+.jumbotron-right ul {
+  list-style: none;
+  float: left;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.jumbotron-right ul li {
+  float: left;
+}
+
+.jumbotron-right ul li img {
+  height: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.service {
+  padding-top: 30px;
+}
+
+.service .card {
+  min-height: 280px;
+  max-height: 280px;
+}
+
+.service .card .position-absolute {
+  bottom: 0;
+}
+
+.overlays {
+  padding-top: 30px;
+}
+
+.overlays .overlay .overlay-content {
+  max-width: 90%;
+  min-width: 90%;
+  bottom: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 20px;
+}
+
+.overlays .overlay .overlay-content img {
+  width: 50px;
+}
+
+.overlays .overlay .overlay-content .overlay-text p {
+  font-size: 11px;
+}
+/*# sourceMappingURL=home.css.map */

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79.493" height="68.402" viewBox="0 0 79.493 68.402">
+  <g id="Group_215" data-name="Group 215" transform="translate(-1467.203 -1411.837)">
+    <g id="Group_200" data-name="Group 200" transform="translate(1485.052 1411.837)" opacity="0.55">
+      <path id="Path_23" data-name="Path 23" d="M601.5,57.979l-8.511-4.914a.333.333,0,0,0-.5.289v9.828a.333.333,0,0,0,.5.289l8.511-4.914A.333.333,0,0,0,601.5,57.979Z" transform="translate(-566.253 -39.668)" fill="#a9f"/>
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="61.644" height="37.199" rx="2.9" fill="#a9f"/>
+    </g>
+    <g id="Group_195" data-name="Group 195" transform="translate(1069 -598)">
+      <g id="Group_87" data-name="Group 87" transform="translate(399.203 2026.692)">
+        <g id="Group_85" data-name="Group 85" transform="translate(23.895 37.693)">
+          <rect id="Rectangle_96" data-name="Rectangle 96" width="6.731" height="5.519" transform="translate(3.97)" fill="rgba(0,0,0,0)" stroke="#a9f" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Path_25" data-name="Path 25" d="M120.235,269.684a7.336,7.336,0,0,1-14.671,0Z" transform="translate(-105.564 -264.165)" fill="rgba(0,0,0,0)" stroke="#a9f" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+        <g id="Group_86" data-name="Group 86">
+          <rect id="Rectangle_97" data-name="Rectangle 97" width="62.462" height="37.693" rx="2.9" fill="rgba(0,0,0,0)" stroke="#a9f" stroke-miterlimit="10" stroke-width="2"/>
+          <text id="WWW" transform="translate(11.948 23.316)" fill="#ab9aff" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.03em"><tspan x="0" y="0">WWW</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

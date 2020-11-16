@@ -1,0 +1,97 @@
+:root {
+    --primary-purple:  #633bfb;
+   
+  }
+
+header{
+    background: var(--primary-purple);
+
+}
+
+.banner{
+    background: var(--primary-purple);
+    
+    h1{
+        line-height: 1.5;
+        font-weight: bold;
+        color: #fff;
+        font-size: 50px;
+    }
+
+    p{
+        line-height: 1.5;
+    }
+}
+
+.jumbotron-right{
+
+    
+    .sponsor{
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        margin-left: auto;
+        margin-top: -80px;
+    }
+
+    ul{
+        list-style: none;
+        float: left;
+        margin-bottom: 0;
+        padding-left: 0;
+
+        li{
+            float: left;
+            
+            img{
+                height: 50px;
+                padding-left: 30px;
+                padding-right: 30px;
+               
+                
+            }
+        }
+    }
+}
+
+.service{
+    padding-top: 30px;
+    
+    .card{
+        min-height: 280px ;
+        max-height: 280px;
+
+        .position-absolute{
+            bottom:0;
+        }
+    }
+}
+
+
+.overlays{
+    padding-top: 30px;
+
+.overlay{
+
+
+    .overlay-content{
+        max-width: 90%;
+        min-width: 90%;
+        bottom: 10px;
+        background-color: rgba($color: #000000, $alpha: 0.7);
+        border-radius: 20px;
+        
+        img{
+            width: 50px;
+        }
+
+        .overlay-text{
+            
+            p{
+                font-size: 11px;
+            }
+        }
+    }
+
+    
+}
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83.673" height="67.277" viewBox="0 0 83.673 67.277">
+  <g id="Group_218" data-name="Group 218" transform="translate(-1033.206 -1906.594)">
+    <g id="Group_202" data-name="Group 202" transform="translate(1045.549 1900.022)" opacity="0.55">
+      <g id="Group_94" data-name="Group 94">
+        <rect id="Rectangle_105" data-name="Rectangle 105" width="71.33" height="43.044" rx="2.9" transform="translate(0 6.572)" fill="#ff9382"/>
+      </g>
+    </g>
+    <g id="Group_193" data-name="Group 193" transform="translate(636 -853)">
+      <g id="Group_171" data-name="Group 171" transform="translate(398.206 2775.101)">
+        <g id="Group_88" data-name="Group 88" transform="translate(24.001 37.858)">
+          <rect id="Rectangle_98" data-name="Rectangle 98" width="6.76" height="5.544" transform="translate(3.987)" fill="none" stroke="#ff9382" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Path_26" data-name="Path 26" d="M299.936,468.05a7.368,7.368,0,1,1-14.736,0Z" transform="translate(-285.2 -462.506)" fill="none" stroke="#ff9382" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+        <g id="Group_89" data-name="Group 89">
+          <rect id="Rectangle_99" data-name="Rectangle 99" width="62.737" height="37.858" rx="2.9" fill="none" stroke="#ff9382" stroke-miterlimit="10" stroke-width="2"/>
+          <text id="ADs" transform="translate(19.388 23.394)" fill="#ff9382" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.03em"><tspan x="0" y="0">ADs</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77.098" height="60.766" viewBox="0 0 77.098 60.766">
+  <g id="Group_213" data-name="Group 213" transform="translate(-594.902 -1412)">
+    <circle id="Ellipse_34" data-name="Ellipse 34" cx="17.5" cy="17.5" r="17.5" transform="translate(637 1412)" fill="#ffbb56" opacity="0.55"/>
+    <g id="Group_172" data-name="Group 172" transform="translate(595.902 1421.577)">
+      <text id="SE" transform="translate(17.241 35.394)" fill="#ffbb56" font-size="18" font-family="Poppins-Regular, Poppins" letter-spacing="0.03em"><tspan x="0" y="0">SE</tspan></text>
+      <text id="O" transform="translate(37.693 40.589)" fill="#ffbb56" font-size="29" font-family="Poppins-Regular, Poppins" letter-spacing="0.03em"><tspan x="0" y="0">O</tspan></text>
+      <path id="Path_22" data-name="Path 22" d="M456.109,99.332h2.256a9.238,9.238,0,0,0,9.238-9.238h0a9.775,9.775,0,0,0-9.775-9.775h-1.719V77.74a20.84,20.84,0,0,0-20.84-20.84h-.752a20.84,20.84,0,0,0-20.84,20.84h-4.082A14.394,14.394,0,0,0,395.2,92.135h0a7.2,7.2,0,0,0,7.2,7.2h11.279" transform="translate(-395.2 -56.9)" fill="none" stroke="#ffbb56" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_100" data-name="Path 100" d="M0,0,4.048,4.541,10.8,12.109" transform="translate(55.765 37.668)" fill="none" stroke="#ffbb56" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
